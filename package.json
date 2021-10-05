@@ -1,6 +1,6 @@
 {
   "name": "root",
-  "private": true,
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@storybook/addon-actions": "^5.2.5",
