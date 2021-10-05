@@ -1,12 +1,12 @@
 {
   "name": "@jsilva-pt/j-table",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@jsilva-pt/j-table-row": "^0.1.8"
+    "@jsilva-pt/j-table-row": "^0.1.9"
   },
   "gitHead": "ccf89747c7f312b7a64c05b9f0c48e9914917a81"
 }
